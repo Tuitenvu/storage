@@ -1,21 +1,18 @@
 #!/usr/bin/env bash
 cat << "EOF"
-  __  __   _                  _     ___                 _             _   _
- |  \/  | (_)  _ __    __ _  (_)   |_ _|  _ __    ___  | |_    __ _  | | | |
- | |\/| | | | | '__|  / _` | | |    | |  | '_ \  / __| | __|  / _` | | | | |
- | |  | | | | | |    | (_| | | |    | |  | | | | \__ \ | |_  | (_| | | | | |
- |_|  |_| |_| |_|     \__,_| |_|   |___| |_| |_| |___/  \__|  \__,_| |_| |_|
-
+  _______ _                 _      __      __    
+ |__   __| |               | |     \ \    / /    
+    | |  | |__   __ _ _ __ | |__    \ \  / /   _ 
+    | |  | '_ \ / _` | '_ \| '_ \    \ \/ / | | |
+    | |  | | | | (_| | | | | | | |    \  /| |_| |
+    |_|  |_| |_|\__,_|_| |_|_| |_|     \/  \__,_|
+                                                 
 Special thanks to:
   Trần Xuân Thanh(ging-dev) for termux-manager.
   Phạm Quang Huy(huybopbi) for contribute this method.
+  Nguyễn Thanh Vũ(vuchimbe) to re-make.
 
 ===============================================
-Installation file made by CatalizCS with love <3
-GITHUB: https://github.com/CatalizCS/miraiv2
-THIS BOT MAKE FOR ONLY VIETNAMESE USER, IF YOU WANT TO USE THIS PLEASE CONTACT ME
-ĐÂY LÀ BẢN BYPASS KHÔNG PHẢI BẢN GỐC
-MIRAIPROJECT LÀ MÃ NGUỒN MỞ, HOÀN TOÀN KHÔNG ĐƯỢC BUÔN BÁN Ở BẤT CỨ NƠI NÀO, HÃY CẨN THẬN!
 LƯU Ý: SHELL SCRIPT NÀY CHỈ DÀNH CHO TERMUX!
 Để hệ thống hoạt động tối ưu, ít nhất dung lượng máy phải trống khoảng 1-2GB.
 Nhấn enter để bắt đầu tiến hành cài đặt.
