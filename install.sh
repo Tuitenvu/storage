@@ -24,7 +24,7 @@ echo "==============================================="
 echo "[!] Tiến hành cài đặt các gói library còn thiếu [!]"
 pkg install -y libpixman libcairo pango xorgproto php libjpeg-turbo-progs libjpeg-turbo-static libjpeg-turbo librsvg nodejs git python wget
 
-git clone https://github.com/GinzaTech/miraiv2
+git clone https://github.com/Tuitenvu/Botmirai
 cd miraiv2
 echo "[!] Đã tải source code thành công, tiến hành cài các gói cần thiết [!]"
 npm install
