@@ -7,11 +7,7 @@ cat << "EOF"
     | |  | | | | (_| | | | | | | |    \  /| |_| |
     |_|  |_| |_|\__,_|_| |_|_| |_|     \/  \__,_|
                                                  
-Special thanks to:
-  Trần Xuân Thanh(ging-dev) for termux-manager.
-  Phạm Quang Huy(huybopbi) for contribute this method.
-  Nguyễn Thanh Vũ(vuchimbe) to re-make.
-
+Hello world
 ===============================================
 LƯU Ý: SHELL SCRIPT NÀY CHỈ DÀNH CHO TERMUX!
 Để hệ thống hoạt động tối ưu, ít nhất dung lượng máy phải trống khoảng 1-2GB.
